@@ -1,0 +1,2170 @@
+[
+  {
+    
+		"name": "Complete FILE R-07: Assassination Attempt",
+    
+		"victory": true,
+    "region": "R-07",
+    
+		"category": [
+      "FILE R-07: Assassination Attempt"
+    ],
+    
+		"requires": "|Murasama| AND |FILE R-07 Assassination Attempt| AND ({YamlDisabled(require_defensive_offense_for_excelsus)} OR |Defensive Offense|) AND ({YamlDisabled(require_repair_nanopastes_for_armstrong)} OR |Repair Nanopaste Unlock|)"
+  },
+  {
+    
+		"name": "Complete FILE R-00: Guard Duty",
+    
+    "region": "R-00",
+		"category": [
+      "FILE R-00: Guard Duty"
+    ],
+    
+		"requires": "|FILE R-00 Guard Duty|"
+  },
+  {
+    
+		"name": "Complete FILE R-01: Coup d'Ètat",
+    "region": "R-01",
+		"category": [
+      "FILE R-01: Coup d'Ètat"
+    ],
+    
+		"requires": "|FILE R-01 Coup d'Ètat| AND |@Swords:1|"
+  },
+  {
+    
+		"name": "R-01 Low Chest by Building Entrance",
+    "region": "R-01",
+		"category": [
+      "FILE R-01: Coup d'Ètat"
+    ],
+    
+		"requires": "|FILE R-01 Coup d'Ètat|"
+  },
+  {
+    
+		"name": "R-01 High Chest by Building Entrance",
+    "region": "R-01",
+		"category": [
+      "FILE R-01: Coup d'Ètat"
+    ],
+    
+		"requires": "|FILE R-01 Coup d'Ètat|"
+  },
+  {
+    
+		"name": "R-01 Chest Before Building Hallway",
+    "region": "R-01",
+		"category": [
+      "FILE R-01: Coup d'Ètat"
+    ],
+    
+		"requires": "|FILE R-01 Coup d'Ètat|"
+  },
+  {
+    
+		"name": "R-01 Chest Right of Building Exit",
+    "region": "R-01",
+		"category": [
+      "FILE R-01: Coup d'Ètat"
+    ],
+    
+		"requires": "|FILE R-01 Coup d'Ètat|"
+  },
+  {
+    
+		"name": "R-01 Chest on Right Bridge Building Roof",
+    "region": "R-01",
+		"category": [
+      "FILE R-01: Coup d'Ètat"
+    ],
+    
+		"requires": "|FILE R-01 Coup d'Ètat|"
+  },
+  {
+    
+		"name": "R-01 Chest Right of Road Past Bridge Building",
+    "region": "R-01",
+		"category": [
+      "FILE R-01: Coup d'Ètat"
+    ],
+    
+		"requires": "|FILE R-01 Coup d'Ètat|"
+  },
+  {
+    
+		"name": "R-01 Chest Left of Road Past Bridge",
+    "region": "R-01",
+		"category": [
+      "FILE R-01: Coup d'Ètat"
+    ],
+    
+		"requires": "|FILE R-01 Coup d'Ètat|"
+  },
+  {
+    
+		"name": "R-01 Chest Before Barrier",
+    "region": "R-01",
+		"category": [
+      "FILE R-01: Coup d'Ètat"
+    ],
+    
+		"requires": "|FILE R-01 Coup d'Ètat|"
+  },
+  {
+    
+		"name": "R-01 Defeat LQ-84i",
+    "region": "R-01",
+		"category": [
+      "FILE R-01: Coup d'Ètat"
+    ],
+    
+		"requires": "|FILE R-01 Coup d'Ètat|"
+  },
+  {
+    
+		"name": "R-01 Chest in Room After LQ-84i Fight",
+    "region": "R-01",
+		"category": [
+      "FILE R-01: Coup d'Ètat"
+    ],
+    
+		"requires": "|FILE R-01 Coup d'Ètat| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-01 Chest Right of Road After LQ-84i Fight",
+    "region": "R-01",
+		"category": [
+      "FILE R-01: Coup d'Ètat"
+    ],
+    
+		"requires": "|FILE R-01 Coup d'Ètat|"
+  },
+  {
+    
+		"name": "R-01 Defeat Hammerhead",
+    "region": "R-01",
+		"category": [
+      "FILE R-01: Coup d'Ètat"
+    ],
+    
+		"requires": "|FILE R-01 Coup d'Ètat|"
+  },
+  {
+    
+		"name": "R-01 Chest Left of Road After Hammerhead Fight",
+    "region": "R-01",
+		"category": [
+      "FILE R-01: Coup d'Ètat"
+    ],
+    
+		"requires": "|FILE R-01 Coup d'Ètat|"
+  },
+  {
+    
+		"name": "R-01 Chest on Right Building Roof After Hammerhead Fight",
+    "region": "R-01",
+		"category": [
+      "FILE R-01: Coup d'Ètat"
+    ],
+    
+		"requires": "|FILE R-01 Coup d'Ètat|"
+  },
+  {
+    
+		"name": "R-01 Chest Right of Road After Hammerhead Fight",
+    "region": "R-01",
+		"category": [
+      "FILE R-01: Coup d'Ètat"
+    ],
+    
+		"requires": "|FILE R-01 Coup d'Ètat|"
+  },
+  {
+    
+		"name": "R-01 Keycard Hand",
+    "region": "R-01",
+		"category": [
+      "FILE R-01: Coup d'Ètat", "precise"
+    ],
+    
+		"requires": "|FILE R-01 Coup d'Ètat| AND |@Swords:1|"
+  },
+  {
+    
+		"name": "R-01 Low Chest in Building After Keycard Lock",
+    "region": "R-01",
+		"category": [
+      "FILE R-01: Coup d'Ètat"
+    ],
+    
+		"requires": "|FILE R-01 Coup d'Ètat| AND |@Swords:1|"
+  },
+  {
+    
+		"name": "R-01 High Chest in Building After Keycard Lock",
+    "region": "R-01",
+		"category": [
+      "FILE R-01: Coup d'Ètat"
+    ],
+    
+		"requires": "|FILE R-01 Coup d'Ètat| AND |@Swords:1|"
+  },
+  {
+    
+		"name": "R-01 Chest Right of Road After Second Building",
+    "region": "R-01",
+		"category": [
+      "FILE R-01: Coup d'Ètat"
+    ],
+    
+		"requires": "|FILE R-01 Coup d'Ètat| AND |@Swords:1|"
+  },
+  {
+    
+		"name": "R-01 Chest Left of Road After Second Building",
+    "region": "R-01",
+		"category": [
+      "FILE R-01: Coup d'Ètat"
+    ],
+    
+		"requires": "|FILE R-01 Coup d'Ètat| AND |@Swords:1|"
+  },
+  {
+    
+		"name": "R-01 Locked Chest on Roof of Building By Plaza",
+    "region": "R-01",
+		"category": [
+      "FILE R-01: Coup d'Ètat"
+    ],
+    
+		"requires": "|FILE R-01 Coup d'Ètat| AND |@Swords:1|"
+  },
+  {
+    
+		"name": "R-01 Chest Near Plaza",
+    "region": "R-01",
+		"category": [
+      "FILE R-01: Coup d'Ètat"
+    ],
+    
+		"requires": "|FILE R-01 Coup d'Ètat| AND |@Swords:1|"
+  },
+  {
+    
+		"name": "R-01 Chest Near Metal Grate By Plaza",
+    "region": "R-01",
+		"category": [
+      "FILE R-01: Coup d'Ètat"
+    ],
+    
+		"requires": "|FILE R-01 Coup d'Ètat| AND |@Swords:1|"
+  },
+  {
+    
+		"name": "R-01 Low Chest by Factory Entrance",
+    "region": "R-01",
+		"category": [
+      "FILE R-01: Coup d'Ètat"
+    ],
+    
+		"requires": "|FILE R-01 Coup d'Ètat| AND |@Swords:1|"
+  },
+  {
+    
+		"name": "R-01 High Chest by Factory Entrance",
+    "region": "R-01",
+		"category": [
+      "FILE R-01: Coup d'Ètat"
+    ],
+    
+		"requires": "|FILE R-01 Coup d'Ètat| AND |@Swords:1|"
+  },
+  {
+    
+		"name": "R-01 Chest After Entering Factory",
+    "region": "R-01",
+		"category": [
+      "FILE R-01: Coup d'Ètat"
+    ],
+    
+		"requires": "|FILE R-01 Coup d'Ètat| AND |@Swords:1|"
+  },
+  {
+    
+		"name": "R-01 Room Before Mistral Low Left Chest",
+    "region": "R-01",
+		"category": [
+      "FILE R-01: Coup d'Ètat"
+    ],
+    
+		"requires": "|FILE R-01 Coup d'Ètat| AND |@Swords:1|"
+  },
+  {
+    
+		"name": "R-01 Room Before Mistral High Chest",
+    "region": "R-01",
+		"category": [
+      "FILE R-01: Coup d'Ètat"
+    ],
+    
+		"requires": "|FILE R-01 Coup d'Ètat| AND |@Swords:1|"
+  },
+  {
+    
+		"name": "R-01 Room Before Mistral Low Right Chest",
+    "region": "R-01",
+		"category": [
+      "FILE R-01: Coup d'Ètat"
+    ],
+    
+		"requires": "|FILE R-01 Coup d'Ètat| AND |@Swords:1|"
+  },
+  {
+    
+		"name": "R-01 MIB",
+    "region": "R-01",
+		"category": [
+      "FILE R-01: Coup d'Ètat", "MIBs"
+    ],
+    
+		"requires": "|FILE R-01 Coup d'Ètat| AND |@Swords:1|"
+  },
+  {
+    
+		"name": "Complete FILE R-06: Badlands Showdown",
+    "region": "R-06",
+		"category": [
+      "FILE R-06: Badlands Showdown"
+    ],
+    
+		"requires": "|FILE R-06 Badlands Showdown|"
+  },
+  {
+    
+		"name": "R-06 Defeat Sam",
+    "region": "R-06",
+		"category": [
+      "FILE R-06: Badlands Showdown"
+    ],
+    
+		"requires": "|FILE R-06 Badlands Showdown|"
+  },
+  {
+    
+		"name": "Complete FILE R-05: Escape from Denver",
+    "region": "R-05",
+		"category": [
+      "FILE R-05: Escape from Denver"
+    ],
+    
+		"requires": "|FILE R-05 Escape from Denver| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "Complete FILE R-04: Hostile Takeover",
+    "region": "R-04",
+		"category": [
+      "FILE R-04: Hostile Takeover"
+    ],
+    
+		"requires": "|FILE R-04 Hostile Takeover| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "Complete FILE R-03: Mile High",
+    "region": "R-03",
+		"category": [
+      "FILE R-03: Mile High"
+    ],
+    
+		"requires": "|FILE R-03 Mile High| AND |Ripper Mode| AND |@Swords:1| AND ({YamlDisabled(require_em_grenades_for_monsoon)} OR |Electromagnetic Grenade Unlock|)"
+  },
+  {
+    
+		"name": "Complete FILE R-02: Research Facility",
+    "region": "R-02",
+		"category": [
+      "FILE R-02: Research Facility"
+    ],
+    
+		"requires": "|FILE R-02 Research Facility| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-02 Chest Before First Fight",
+    "region": "R-02",
+		"category": [
+      "FILE R-02: Research Facility"
+    ],
+    
+		"requires": "|FILE R-02 Research Facility|"
+  },
+  {
+    
+		"name": "R-02 Right Chest Before George Cutscene",
+    "region": "R-02",
+		"category": [
+      "FILE R-02: Research Facility"
+    ],
+    
+		"requires": "|FILE R-02 Research Facility| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-02 Left Chest Before George Cutscene",
+    "region": "R-02",
+		"category": [
+      "FILE R-02: Research Facility"
+    ],
+    
+		"requires": "|FILE R-02 Research Facility| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-02 Humanoid Dwarf Gekko",
+    "region": "R-02",
+		"category": [
+      "FILE R-02: Research Facility", "Humanoid Gekkos"
+    ],
+    
+		"requires": "|FILE R-02 Research Facility| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-02 Chest Behind You After George Cutscenes",
+    "region": "R-02",
+		"category": [
+      "FILE R-02: Research Facility"
+    ],
+    
+		"requires": "|FILE R-02 Research Facility| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-02 Chest Underneath Stairs By 3 Mastiffs",
+    "region": "R-02",
+		"category": [
+      "FILE R-02: Research Facility"
+    ],
+    
+		"requires": "|FILE R-02 Research Facility| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-02 Hallway After 3 Mastiffs Chest",
+    "region": "R-02",
+		"category": [
+      "FILE R-02: Research Facility"
+    ],
+    
+		"requires": "|FILE R-02 Research Facility| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-02 MIB",
+    "region": "R-02",
+		"category": [
+      "FILE R-02: Research Facility", "MIBs"
+    ],
+    
+		"requires": "|FILE R-02 Research Facility| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-02 Chest in Research Facility Hallway",
+    "region": "R-02",
+		"category": [
+      "FILE R-02: Research Facility"
+    ],
+    
+		"requires": "|FILE R-02 Research Facility| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-02 Chest By Dwarf Gekko Section",
+    "region": "R-02",
+		"category": [
+      "FILE R-02: Research Facility"
+    ],
+    
+		"requires": "|FILE R-02 Research Facility| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-02 Locked Chest in GRAD Fight Room",
+    "region": "R-02",
+		"category": [
+      "FILE R-02: Research Facility"
+    ],
+    
+		"requires": "|FILE R-02 Research Facility| AND |@Swords:1|"
+  },
+  {
+    
+		"name": "R-02 Defeat GRAD",
+    "region": "R-02",
+		"category": [
+      "FILE R-02: Research Facility"
+    ],
+    
+		"requires": "|FILE R-02 Research Facility| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-02 Left Chest In Hallway After GRAD Fight",
+    "region": "R-02",
+		"category": [
+      "FILE R-02: Research Facility"
+    ],
+    
+		"requires": "|FILE R-02 Research Facility| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-02 Right Chest In Hallway After GRAD Fight",
+    "region": "R-02",
+		"category": [
+      "FILE R-02: Research Facility"
+    ],
+    
+		"requires": "|FILE R-02 Research Facility| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-03 Poster 1",
+    "region": "R-03",
+		"category": [
+      "FILE R-03: Mile High", "Posters"
+    ],
+    
+		"requires": "|FILE R-03 Mile High| AND |@Swords:1|"
+  },
+  {
+    
+		"name": "R-03 Chest Behind Wall Ahead of Start",
+    "region": "R-03",
+		"category": [
+      "FILE R-03: Mile High"
+    ],
+    
+		"requires": "|FILE R-03 Mile High|"
+  },
+  {
+    
+		"name": "R-03 Chest Before Tower",
+    "region": "R-03",
+		"category": [
+      "FILE R-03: Mile High"
+    ],
+    
+		"requires": "|FILE R-03 Mile High|"
+  },
+  {
+    
+		"name": "R-03 Cutout",
+    "region": "R-03",
+		"category": [
+      "FILE R-03: Mile High", "Posters"
+    ],
+    
+		"requires": "|FILE R-03 Mile High| AND |@Swords:1|"
+  },
+  {
+    
+		"name": "R-03 MIB",
+    "region": "R-03",
+		"category": [
+      "FILE R-03: Mile High", "MIBs"
+    ],
+    
+		"requires": "|FILE R-03 Mile High|"
+  },
+  {
+    
+		"name": "R-03 Chest on First Building",
+    "region": "R-03",
+		"category": [
+      "FILE R-03: Mile High"
+    ],
+    
+		"requires": "|FILE R-03 Mile High|"
+  },
+  {
+    
+		"name": "R-03 Chest on Second Building",
+    "region": "R-03",
+		"category": [
+      "FILE R-03: Mile High"
+    ],
+    
+		"requires": "|FILE R-03 Mile High|"
+  },
+  {
+    
+		"name": "R-03 Locked Chest on Third Building",
+    "region": "R-03",
+		"category": [
+      "FILE R-03: Mile High"
+    ],
+    
+		"requires": "|FILE R-03 Mile High| AND |@Swords:1|"
+  },
+  {
+    
+		"name": "R-03 Chest on Third Building",
+    "region": "R-03",
+		"category": [
+      "FILE R-03: Mile High"
+    ],
+    
+		"requires": "|FILE R-03 Mile High|"
+  },
+  {
+    
+		"name": "R-03 Chest on Fourth Building by Jump Point",
+    "region": "R-03",
+		"category": [
+      "FILE R-03: Mile High"
+    ],
+    
+		"requires": "|FILE R-03 Mile High|"
+  },
+  {
+    
+		"name": "R-03 Chest on Fourth Building by Railroad Entrance",
+    "region": "R-03",
+		"category": [
+      "FILE R-03: Mile High"
+    ],
+    
+		"requires": "|FILE R-03 Mile High|"
+  },
+  {
+    
+		"name": "R-03 Chest After Elevator Fall",
+    "region": "R-03",
+		"category": [
+      "FILE R-03: Mile High"
+    ],
+    
+		"requires": "|FILE R-03 Mile High| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-03 Chest Right of Elevator Fall Exit",
+    "region": "R-03",
+		"category": [
+      "FILE R-03: Mile High"
+    ],
+    
+		"requires": "|FILE R-03 Mile High| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-03 Chest Left of Elevator Fall Exit",
+    "region": "R-03",
+		"category": [
+      "FILE R-03: Mile High"
+    ],
+    
+		"requires": "|FILE R-03 Mile High| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-03 Chest on Railroad",
+    "region": "R-03",
+		"category": [
+      "FILE R-03: Mile High"
+    ],
+    
+		"requires": "|FILE R-03 Mile High| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-03 Humanoid Dwarf Gekko",
+    "region": "R-03",
+		"category": [
+      "FILE R-03: Mile High", "Humanoid Gekkos"
+    ],
+    
+		"requires": "|FILE R-03 Mile High| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-03 Chest at Railroad Section Exit",
+    "region": "R-03",
+		"category": [
+      "FILE R-03: Mile High"
+    ],
+    
+		"requires": "|FILE R-03 Mile High| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-03 Chest by Barricade After Railroad Section",
+    "region": "R-03",
+		"category": [
+      "FILE R-03: Mile High"
+    ],
+    
+		"requires": "|FILE R-03 Mile High| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-03 Right Chest Before Sam Cutscene",
+    "region": "R-03",
+		"category": [
+      "FILE R-03: Mile High"
+    ],
+    
+		"requires": "|FILE R-03 Mile High| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-03 Left Chest Before Sam Cutscene",
+    "region": "R-03",
+		"category": [
+      "FILE R-03: Mile High"
+    ],
+    
+		"requires": "|FILE R-03 Mile High| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-03 Poster 2",
+    "region": "R-03",
+		"category": [
+      "FILE R-03: Mile High", "Posters"
+    ],
+    
+		"requires": "|FILE R-03 Mile High| AND |@Swords:1|"
+  },
+  {
+    
+		"name": "R-04 Chest Before Lobby Elevator",
+    "region": "R-04",
+		"category": [
+      "FILE R-04: Hostile Takeover"
+    ],
+    
+		"requires": "|FILE R-04 Hostile Takeover|"
+  },
+  {
+    
+		"name": "R-04 Poster",
+    "region": "R-04",
+		"category": [
+      "FILE R-04: Hostile Takeover","Posters"
+    ],
+    
+		"requires": "|FILE R-04 Hostile Takeover| AND |@Swords:1|"
+  },
+  {
+    
+		"name": "R-04 Second Floor Set Storage Room Chest",
+    "region": "R-04",
+		"category": [
+      "FILE R-04: Hostile Takeover"
+    ],
+    
+		"requires": "|FILE R-04 Hostile Takeover|"
+  },
+  {
+    
+		"name": "R-04 Second Floor Set Left Office Chest",
+    "region": "R-04",
+		"category": [
+      "FILE R-04: Hostile Takeover"
+    ],
+    
+		"requires": "|FILE R-04 Hostile Takeover|"
+  },
+  {
+    
+		"name": "R-04 Second Floor Set Right Office Chest",
+    "region": "R-04",
+		"category": [
+      "FILE R-04: Hostile Takeover"
+    ],
+    
+		"requires": "|FILE R-04 Hostile Takeover|"
+  },
+  {
+    
+		"name": "R-04 Second Floor Set Storage Room Locked Chest",
+    "region": "R-04",
+		"category": [
+      "FILE R-04: Hostile Takeover"
+    ],
+    
+		"requires": "|FILE R-04 Hostile Takeover| AND |@Swords:1|"
+  },
+  {
+    
+		"name": "R-04 Second Floor Set Stair Chest",
+    "region": "R-04",
+		"category": [
+      "FILE R-04: Hostile Takeover"
+    ],
+    
+		"requires": "|FILE R-04 Hostile Takeover| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-04 Garden Entrance Left Chest",
+    "region": "R-04",
+		"category": [
+      "FILE R-04: Hostile Takeover"
+    ],
+    
+		"requires": "|FILE R-04 Hostile Takeover| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-04 Garden Entrance Right Chest",
+    "region": "R-04",
+		"category": [
+      "FILE R-04: Hostile Takeover"
+    ],
+    
+		"requires": "|FILE R-04 Hostile Takeover| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-04 Garden Balcony Chest",
+    "region": "R-04",
+		"category": [
+      "FILE R-04: Hostile Takeover"
+    ],
+    
+		"requires": "|FILE R-04 Hostile Takeover| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-04 Garden Locked Chest",
+    "region": "R-04",
+		"category": [
+      "FILE R-04: Hostile Takeover"
+    ],
+    
+		"requires": "|FILE R-04 Hostile Takeover| AND |@Swords:1|"
+  },
+  {
+    
+		"name": "R-04 Garden Chest by Ladder",
+    "region": "R-04",
+		"category": [
+      "FILE R-04: Hostile Takeover"
+    ],
+    
+		"requires": "|FILE R-04 Hostile Takeover| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-04 Garden Chest by Exit",
+    "region": "R-04",
+		"category": [
+      "FILE R-04: Hostile Takeover"
+    ],
+    
+		"requires": "|FILE R-04 Hostile Takeover| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-04 Chest Before Elevator Fight",
+    "region": "R-04",
+		"category": [
+      "FILE R-04: Hostile Takeover"
+    ],
+    
+		"requires": "|FILE R-04 Hostile Takeover| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-04 Chest in Room Behind Glass After Elevator Fight",
+    "region": "R-04",
+		"category": [
+      "FILE R-04: Hostile Takeover"
+    ],
+    
+		"requires": "|FILE R-04 Hostile Takeover| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-04 MIB",
+    "region": "R-04",
+		"category": [
+      "FILE R-04: Hostile Takeover", "MIBs"
+    ],
+    
+		"requires": "|FILE R-04 Hostile Takeover| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-04 Chest After Elevator Fight",
+    "region": "R-04",
+		"category": [
+      "FILE R-04: Hostile Takeover"
+    ],
+    
+		"requires": "|FILE R-04 Hostile Takeover| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-04 Hallway Before Body Duplicate Fights Chest",
+    "region": "R-04",
+		"category": [
+      "FILE R-04: Hostile Takeover"
+    ],
+    
+		"requires": "|FILE R-04 Hostile Takeover| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-04 Brain Room Chest",
+    "region": "R-04",
+		"category": [
+      "FILE R-04: Hostile Takeover"
+    ],
+    
+		"requires": "|FILE R-04 Hostile Takeover| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-04 Chest Before Sundowner",
+    "region": "R-04",
+		"category": [
+      "FILE R-04: Hostile Takeover"
+    ],
+    
+		"requires": "|FILE R-04 Hostile Takeover| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-04 Humanoid Dwarf Gekko",
+    "region": "R-04",
+		"category": [
+      "FILE R-04: Hostile Takeover", "Humanoid Gekkos"
+    ],
+    
+		"requires": "|FILE R-04 Hostile Takeover| AND |@Cuts Objects:1| AND (|Rocket Launcher Unlock| OR |Homing Missile Unlock| OR |Grenade Unlock|)"
+  },
+  {
+    
+		"name": "R-05 Right Chest by Start",
+    "region": "R-05",
+		"category": [
+      "FILE R-05: Escape from Denver"
+    ],
+    
+		"requires": "|FILE R-05 Escape from Denver|"
+  },
+  {
+    
+		"name": "R-05 Left Chest by Start",
+    "region": "R-05",
+		"category": [
+      "FILE R-05: Escape from Denver"
+    ],
+    
+		"requires": "|FILE R-05 Escape from Denver|"
+  },
+  {
+    
+		"name": "R-05 Poster",
+    "region": "R-05",
+		"category": [
+      "FILE R-05: Escape from Denver","Posters"
+    ],
+    
+		"requires": "|FILE R-05 Escape from Denver| AND |@Swords:1|"
+  },
+  {
+    
+		"name": "R-05 Humanoid Dwarf Gekko",
+    "region": "R-05",
+		"category": [
+      "FILE R-05: Escape from Denver", "Humanoid Gekkos"
+    ],
+    
+		"requires": "|FILE R-05 Escape from Denver| AND (|Cardboard Box Unlock| OR |Drum Can Unlock|)"
+  },
+  {
+    
+		"name": "R-05 Area After Stairs Chest",
+    "region": "R-05",
+		"category": [
+      "FILE R-05: Escape from Denver"
+    ],
+    
+		"requires": "|FILE R-05 Escape from Denver|"
+  },
+  {
+    
+		"name": "R-05 Hallway Before Barricade Chest",
+    "region": "R-05",
+		"category": [
+      "FILE R-05: Escape from Denver"
+    ],
+    
+		"requires": "|FILE R-05 Escape from Denver|"
+  },
+  {
+    
+		"name": "R-05 Chest After Barricade",
+    "region": "R-05",
+		"category": [
+      "FILE R-05: Escape from Denver"
+    ],
+    
+		"requires": "|FILE R-05 Escape from Denver| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-05 Chest by Level Exit",
+    "region": "R-05",
+		"category": [
+      "FILE R-05: Escape from Denver"
+    ],
+    
+		"requires": "|FILE R-05 Escape from Denver| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-05 Locked Chest in Room by Level Exit",
+    "region": "R-05",
+		"category": [
+      "FILE R-05: Escape from Denver"
+    ],
+    
+		"requires": "|FILE R-05 Escape from Denver| AND |@Swords:1|"
+  },
+  {
+    
+		"name": "R-07 Chest by Road",
+    "region": "R-07",
+    
+		"category": [
+      "FILE R-07: Assassination Attempt"
+    ],
+    
+		"requires": "|FILE R-07 Assassination Attempt|"
+  },
+  {
+    
+		"name": "R-07 Chest by Gate",
+    "region": "R-07",
+    
+		"category": [
+      "FILE R-07: Assassination Attempt"
+    ],
+    
+		"requires": "|FILE R-07 Assassination Attempt|"
+  },
+  {
+    
+		"name": "R-07 Locked Chest by Plane Hangar Entrance",
+    "region": "R-07",
+    
+		"category": [
+      "FILE R-07: Assassination Attempt"
+    ],
+    
+		"requires": "|FILE R-07 Assassination Attempt| AND |@Swords:1|"
+  },
+  {
+    
+		"name": "R-07 Chest by Plane Hangar Entrance",
+    "region": "R-07",
+    
+		"category": [
+      "FILE R-07: Assassination Attempt"
+    ],
+    
+		"requires": "|FILE R-07 Assassination Attempt| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-07 Plane Hangar Chest",
+    "region": "R-07",
+    
+		"category": [
+      "FILE R-07: Assassination Attempt"
+    ],
+    
+		"requires": "|FILE R-07 Assassination Attempt| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-07 Chest Right of Plane Hangar Exit",
+    "region": "R-07",
+    
+		"category": [
+      "FILE R-07: Assassination Attempt"
+    ],
+    
+		"requires": "|FILE R-07 Assassination Attempt| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-07 MIB",
+    "region": "R-07",
+    
+		"category": [
+      "FILE R-07: Assassination Attempt", "MIBs"
+    ],
+    
+		"requires": "|FILE R-07 Assassination Attempt| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-07 Defeat Metal Gear Excelsus",
+    "region": "R-07",
+    
+		"category": [
+      "FILE R-07: Assassination Attempt"
+    ],
+    
+		"requires": "|FILE R-07 Assassination Attempt| AND |@Cuts Objects:1| AND ({YamlDisabled(require_defensive_offense_for_excelsus)} OR |Defensive Offense|)"
+  },
+  {
+    
+		"name": "Complete Files R-01, R-03, R-04, R-06, and R-07",
+    
+		"victory": true,
+    "region": "R-07",
+    
+		"category": [],
+    
+		"requires": "|FILE R-01 Coup d'Ètat| AND |Murasama| AND |FILE R-07 Assassination Attempt| AND ({YamlDisabled(require_defensive_offense_for_excelsus)} OR |Defensive Offense|) AND ({YamlDisabled(require_repair_nanopastes_for_armstrong)} OR |Repair Nanopaste Unlock|) AND |FILE R-03 Mile High| AND |Ripper Mode| AND ({YamlDisabled(require_em_grenades_for_monsoon)} OR |Electromagnetic Grenade Unlock|) AND |FILE R-04 Hostile Takeover| AND |FILE R-06 Badlands Showdown|"
+  },
+  {
+    
+		"name": "Complete DL-Story-01: Jetstream",
+    "region":"DL-01",
+		"category": [
+      "DL-Story-01: Jetstream"
+    ],
+    
+		"requires": "|DL-Story-01 Jetstream|"
+  },
+  {
+    
+		"name": "DL-01 Chest by Start",
+    "region":"DL-01",
+		"category": [
+      "DL-Story-01: Jetstream"
+    ],
+    
+		"requires": "|DL-Story-01 Jetstream|"
+  },
+  {
+    
+		"name": "DL-01 Sewer Circle Section Left Chest",
+    "region":"DL-01",
+		"category": [
+      "DL-Story-01: Jetstream"
+    ],
+    
+		"requires": "|DL-Story-01 Jetstream|"
+  },
+  {
+    
+		"name": "DL-01 Sewer Circle Section Right Chest",
+    "region":"DL-01",
+		"category": [
+      "DL-Story-01: Jetstream"
+    ],
+    
+		"requires": "|DL-Story-01 Jetstream|"
+  },
+  {
+    
+		"name": "DL-01 Defeat LQ-84i",
+    "region":"DL-01",
+		"category": [
+      "DL-Story-01: Jetstream"
+    ],
+    
+		"requires": "|DL-Story-01 Jetstream|"
+  },
+  {
+    
+		"name": "DL-01 LQ-84i Fight Room Chest",
+    "region":"DL-01",
+		"category": [
+      "DL-Story-01: Jetstream"
+    ],
+    
+		"requires": "|DL-Story-01 Jetstream|"
+  },
+  {
+    
+		"name": "DL-01 Chest Before Elevator",
+    "region":"DL-01",
+		"category": [
+      "DL-Story-01: Jetstream"
+    ],
+    
+		"requires": "|DL-Story-01 Jetstream|"
+  },
+  {
+    
+		"name": "DL-01 Chest After Elevator",
+    "region":"DL-01",
+		"category": [
+      "DL-Story-01: Jetstream"
+    ],
+    
+		"requires": "|DL-Story-01 Jetstream|"
+  },
+  {
+    
+		"name": "DL-01 Defeat Metal Gear Ray",
+    "region":"DL-01",
+		"category": [
+      "DL-Story-01: Jetstream"
+    ],
+    
+		"requires": "|DL-Story-01 Jetstream|"
+  },
+  {
+    
+		"name": "DL-01 Metal Gear Ray Room Low Chest",
+    "region":"DL-01",
+		"category": [
+      "DL-Story-01: Jetstream"
+    ],
+    
+		"requires": "|DL-Story-01 Jetstream|"
+  },
+  {
+    
+		"name": "DL-01 Metal Gear Ray Room High Chest",
+    "region":"DL-01",
+		"category": [
+      "DL-Story-01: Jetstream"
+    ],
+    
+		"requires": "|DL-Story-01 Jetstream|"
+  },
+  {
+    
+		"name": "DL-01 Garden Balcony Chest",
+    "region":"DL-01",
+		"category": [
+      "DL-Story-01: Jetstream"
+    ],
+    
+		"requires": "|DL-Story-01 Jetstream|"
+  },
+  {
+    
+		"name": "DL-01 Humanoid Dwarf Gekko",
+    "region":"DL-01",
+		"category": [
+      "DL-Story-01: Jetstream", "Humanoid Gekkos"
+    ],
+    
+		"requires": "|DL-Story-01 Jetstream|"
+  },
+  {
+    
+		"name": "DL-01 Chest After Garden Elevators",
+    "region":"DL-01",
+		"category": [
+      "DL-Story-01: Jetstream"
+    ],
+    
+		"requires": "|DL-Story-01 Jetstream|"
+  },
+  {
+    
+		"name": "DL-01 Keycard Room Chest",
+    "region":"DL-01",
+		"category": [
+      "DL-Story-01: Jetstream"
+    ],
+    
+		"requires": "|DL-Story-01 Jetstream|"
+  },
+  {
+    
+		"name": "DL-01 Hallway Before Armstrong Chest",
+    "region":"DL-01",
+		"category": [
+      "DL-Story-01: Jetstream"
+    ],
+    
+		"requires": "|DL-Story-01 Jetstream|"
+  },
+  {
+    
+		"name": "Complete Files R-01, R-03, R-04, R-06, R-07, and DL-01",
+    
+		"victory": true,
+    "region": "R-07",
+    
+		"category": [],
+    
+		"requires": "|FILE R-01 Coup d'Ètat| AND |Murasama| AND |FILE R-07 Assassination Attempt| AND ({YamlDisabled(require_defensive_offense_for_excelsus)} OR |Defensive Offense|) AND ({YamlDisabled(require_repair_nanopastes_for_armstrong)} OR |Repair Nanopaste Unlock|) AND |FILE R-03 Mile High| AND |Ripper Mode| AND ({YamlDisabled(require_em_grenades_for_monsoon)} OR |Electromagnetic Grenade Unlock|) AND |FILE R-04 Hostile Takeover| AND |FILE R-06 Badlands Showdown| AND |DL-Story-01 Jetstream|"
+  },
+  {
+    
+		"name": "Complete DL-Story-02: Blade Wolf",
+    "region":"DL-02",
+		"category": [
+      "DL-Story-02: Blade Wolf"
+    ],
+    
+		"requires": "|DL-Story-02 Blade Wolf|"
+  },
+  {
+    
+		"name": "DL-02 Mission 2 Corner Chest",
+    "region":"DL-02",
+		"category": [
+      "DL-Story-02: Blade Wolf"
+    ],
+    
+		"requires": "|DL-Story-02 Blade Wolf|"
+  },
+  {
+    
+		"name": "DL-02 Mission 2 Chest by Goal",
+    "region":"DL-02",
+		"category": [
+      "DL-Story-02: Blade Wolf"
+    ],
+    
+		"requires": "|DL-Story-02 Blade Wolf|"
+  },
+  {
+    
+		"name": "DL-02 Mission 3 Chest by Start",
+    "region":"DL-02",
+		"category": [
+      "DL-Story-02: Blade Wolf"
+    ],
+    
+		"requires": "|DL-Story-02 Blade Wolf|"
+  },
+  {
+    
+		"name": "DL-02 Mission 3 Window Room Chest",
+    "region":"DL-02",
+		"category": [
+      "DL-Story-02: Blade Wolf"
+    ],
+    
+		"requires": "|DL-Story-02 Blade Wolf|"
+  },
+  {
+    
+		"name": "DL-02 Mission 3 Hallway Dead End Chest",
+    "region":"DL-02",
+		"category": [
+      "DL-Story-02: Blade Wolf"
+    ],
+    
+		"requires": "|DL-Story-02 Blade Wolf|"
+  },
+  {
+    
+		"name": "DL-02 Mission 3 Defeat LQ-84i Duplicate",
+    "region":"DL-02",
+		"category": [
+      "DL-Story-02: Blade Wolf"
+    ],
+    
+		"requires": "|DL-Story-02 Blade Wolf|"
+  },
+  {
+    
+		"name": "DL-02 Mission 4 Chest by Start",
+    "region":"DL-02",
+		"category": [
+      "DL-Story-02: Blade Wolf"
+    ],
+    
+		"requires": "|DL-Story-02 Blade Wolf|"
+  },
+  {
+    
+		"name": "DL-02 Mission 4 Bridge Chest",
+    "region":"DL-02",
+		"category": [
+      "DL-Story-02: Blade Wolf"
+    ],
+    
+		"requires": "|DL-Story-02 Blade Wolf|"
+  },
+  {
+    
+		"name": "DL-02 Mission 4 Yellow Blocks Low Chest",
+    "region":"DL-02",
+		"category": [
+      "DL-Story-02: Blade Wolf"
+    ],
+    
+		"requires": "|DL-Story-02 Blade Wolf|"
+  },
+  {
+    
+		"name": "DL-02 Mission 4 Yellow Blocks High Chest",
+    "region":"DL-02",
+		"category": [
+      "DL-Story-02: Blade Wolf"
+    ],
+    
+		"requires": "|DL-Story-02 Blade Wolf|"
+  },
+  {
+    
+		"name": "DL-02 Chest on Building After Fountain",
+    "region":"DL-02",
+		"category": [
+      "DL-Story-02: Blade Wolf"
+    ],
+    
+		"requires": "|DL-Story-02 Blade Wolf|"
+  },
+  {
+    
+		"name": "DL-02 Bridge Chest",
+    "region":"DL-02",
+		"category": [
+      "DL-Story-02: Blade Wolf"
+    ],
+    
+		"requires": "|DL-Story-02 Blade Wolf|"
+  },
+  {
+    
+		"name": "DL-02 Chest After Bridge",
+    "region":"DL-02",
+		"category": [
+      "DL-Story-02: Blade Wolf"
+    ],
+    
+		"requires": "|DL-Story-02 Blade Wolf|"
+  },
+  {
+    
+		"name": "DL-02 Chest After First Barrier",
+    "region":"DL-02",
+		"category": [
+      "DL-Story-02: Blade Wolf"
+    ],
+    
+		"requires": "|DL-Story-02 Blade Wolf|"
+  },
+  {
+    
+		"name": "DL-02 Chest Before Second Barrier",
+    "region":"DL-02",
+		"category": [
+      "DL-Story-02: Blade Wolf"
+    ],
+    
+		"requires": "|DL-Story-02 Blade Wolf|"
+  },
+  {
+    
+		"name": "DL-02 Chest on Second Barrier Building",
+    "region":"DL-02",
+		"category": [
+      "DL-Story-02: Blade Wolf"
+    ],
+    
+		"requires": "|DL-Story-02 Blade Wolf|"
+  },
+  {
+    
+		"name": "DL-02 Chest in Second Barrier Building",
+    "region":"DL-02",
+		"category": [
+      "DL-Story-02: Blade Wolf"
+    ],
+    
+		"requires": "|DL-Story-02 Blade Wolf|"
+  },
+  {
+    
+		"name": "DL-02 Chest in Building Before Khamsin",
+    "region":"DL-02",
+		"category": [
+      "DL-Story-02: Blade Wolf"
+    ],
+    
+		"requires": "|DL-Story-02 Blade Wolf|"
+  },
+  {
+    
+		"name": "DL-02 Humanoid Dwarf Gekko",
+    "region":"DL-02",
+		"category": [
+      "DL-Story-02: Blade Wolf", "Humanoid Gekkos"
+    ],
+    
+		"requires": "|DL-Story-02 Blade Wolf|"
+  },
+  {
+    
+		"name": "Complete Files R-01, R-03, R-04, R-06, R-07, and DL-02",
+    
+		"victory": true,
+    "region": "R-07",
+    
+		"category": [],
+    
+		"requires": "|FILE R-01 Coup d'Ètat| AND |Murasama| AND |FILE R-07 Assassination Attempt| AND ({YamlDisabled(require_defensive_offense_for_excelsus)} OR |Defensive Offense|) AND ({YamlDisabled(require_repair_nanopastes_for_armstrong)} OR |Repair Nanopaste Unlock|) AND |FILE R-03 Mile High| AND |Ripper Mode| AND ({YamlDisabled(require_em_grenades_for_monsoon)} OR |Electromagnetic Grenade Unlock|) AND |FILE R-04 Hostile Takeover| AND |FILE R-06 Badlands Showdown| AND |DL-Story-02 Blade Wolf|"
+  },
+  {
+    
+		"name": "Complete Files R-01, R-03, R-04, R-06, R-07, DL-01, and DL-02",
+    
+		"victory": true,
+    "region": "R-07",
+    
+		"category": [],
+    
+		"requires": "|FILE R-01 Coup d'Ètat| AND |Murasama| AND |FILE R-07 Assassination Attempt| AND ({YamlDisabled(require_defensive_offense_for_excelsus)} OR |Defensive Offense|) AND ({YamlDisabled(require_repair_nanopastes_for_armstrong)} OR |Repair Nanopaste Unlock|) AND |FILE R-03 Mile High| AND |Ripper Mode| AND ({YamlDisabled(require_em_grenades_for_monsoon)} OR |Electromagnetic Grenade Unlock|) AND |FILE R-04 Hostile Takeover| AND |FILE R-06 Badlands Showdown| AND |DL-Story-02 Blade Wolf| AND |DL-Story-01 Jetstream|"
+  },
+  {
+    
+		"name": "Complete Tutorial VR Mission 01",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "Tutorial VR Mission"
+    ],
+    
+		"requires": "|Tutorial VR Mission 01|"
+  },
+  {
+    
+		"name": "Complete Tutorial VR Mission 02",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "Tutorial VR Mission"
+    ],
+    
+		"requires": "|Tutorial VR Mission 02|"
+  },
+  {
+    
+		"name": "Complete Tutorial VR Mission 03",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "Tutorial VR Mission"
+    ],
+    
+		"requires": "|Tutorial VR Mission 03|"
+  },
+  {
+    
+		"name": "Complete Tutorial VR Mission 04",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "Tutorial VR Mission"
+    ],
+    
+		"requires": "|Tutorial VR Mission 04| AND |Rocket Launcher Unlock|"
+  },
+  {
+    
+		"name": "Complete Tutorial VR Mission 05",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "Tutorial VR Mission"
+    ],
+    
+		"requires": "|Tutorial VR Mission 05|"
+  },
+  {
+    
+		"name": "Complete VR Mission 01",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "Base Game VR Mission"
+    ],
+    
+		"requires": "|VR Mission 01|"
+  },
+  {
+    
+		"name": "Complete VR Mission 02",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "Base Game VR Mission"
+    ],
+    
+		"requires": "|VR Mission 02|"
+  },
+  {
+    
+		"name": "Complete VR Mission 03",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "Base Game VR Mission"
+    ],
+    
+		"requires": "|VR Mission 03|"
+  },
+  {
+    
+		"name": "Complete VR Mission 04",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "Base Game VR Mission"
+    ],
+    
+		"requires": "|VR Mission 04|"
+  },
+  {
+    
+		"name": "Complete VR Mission 05",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "Base Game VR Mission"
+    ],
+    
+		"requires": "|VR Mission 05| AND |Grenade Unlock|"
+  },
+  {
+    
+		"name": "Complete VR Mission 06",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "Base Game VR Mission"
+    ],
+    
+		"requires": "|VR Mission 06|"
+  },
+  {
+    
+		"name": "Complete VR Mission 07",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "Base Game VR Mission"
+    ],
+    
+		"requires": "|VR Mission 07|"
+  },
+  {
+    
+		"name": "Complete VR Mission 08",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "Base Game VR Mission"
+    ],
+    
+		"requires": "|VR Mission 08|"
+  },
+  {
+    
+		"name": "Complete VR Mission 09",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "Base Game VR Mission"
+    ],
+    
+		"requires": "|VR Mission 09|"
+  },
+  {
+    
+		"name": "Complete VR Mission 10",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "Base Game VR Mission"
+    ],
+    
+		"requires": "|VR Mission 10|"
+  },
+  {
+    
+		"name": "Complete VR Mission 11",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "Base Game VR Mission"
+    ],
+    
+		"requires": "|VR Mission 11|"
+  },
+  {
+    
+		"name": "Complete VR Mission 12",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "Base Game VR Mission"
+    ],
+    
+		"requires": "|VR Mission 12| AND |Homing Missile Unlock|"
+  },
+  {
+    
+		"name": "Complete VR Mission 13",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "Base Game VR Mission"
+    ],
+    
+		"requires": "|VR Mission 13|"
+  },
+  {
+    
+		"name": "Complete VR Mission 14",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "Base Game VR Mission"
+    ],
+    
+		"requires": "|VR Mission 14|"
+  },
+  {
+    
+		"name": "Complete VR Mission 15",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "Base Game VR Mission"
+    ],
+    
+		"requires": "|VR Mission 15|"
+  },
+  {
+    
+		"name": "Complete VR Mission 16",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "Base Game VR Mission"
+    ],
+    
+		"requires": "|VR Mission 16|"
+  },
+  {
+    
+		"name": "Complete VR Mission 17",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "Base Game VR Mission"
+    ],
+    
+		"requires": "|VR Mission 17| AND (|Homing Missile Unlock| OR |Grenade Unlock|)"
+  },
+  {
+    
+		"name": "Complete VR Mission 18",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "Base Game VR Mission"
+    ],
+    
+		"requires": "|VR Mission 18|"
+  },
+  {
+    
+		"name": "Complete VR Mission 19",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "Base Game VR Mission"
+    ],
+    
+		"requires": "|VR Mission 19|"
+  },
+  {
+    
+		"name": "Complete VR Mission 20",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "Base Game VR Mission"
+    ],
+    
+		"requires": "|VR Mission 20|"
+  },
+  {
+    
+		"name": "Complete Downloaded VR Mission 01",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "DLC VR Mission"
+    ],
+    
+		"requires": "|Downloaded VR Mission 01|"
+  },
+  {
+    
+		"name": "Complete Downloaded VR Mission 02",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "DLC VR Mission"
+    ],
+    
+		"requires": "|Downloaded VR Mission 02|"
+  },
+  {
+    
+		"name": "Complete Downloaded VR Mission 03",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "DLC VR Mission"
+    ],
+    
+		"requires": "|Downloaded VR Mission 03|"
+  },
+  {
+    
+		"name": "Complete Downloaded VR Mission 04",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "DLC VR Mission"
+    ],
+    
+		"requires": "|Downloaded VR Mission 04|"
+  },
+  {
+    
+		"name": "Complete Downloaded VR Mission 05",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "DLC VR Mission"
+    ],
+    
+		"requires": "|Downloaded VR Mission 05|"
+  },
+  {
+    
+		"name": "Complete Downloaded VR Mission 06",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "DLC VR Mission"
+    ],
+    
+		"requires": "|Downloaded VR Mission 06| AND |Rocket Launcher Unlock|"
+  },
+  {
+    
+		"name": "Complete Downloaded VR Mission 07",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "DLC VR Mission"
+    ],
+    
+		"requires": "|Downloaded VR Mission 07| AND |Grenade Unlock|"
+  },
+  {
+    
+		"name": "Complete Downloaded VR Mission 08",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "DLC VR Mission"
+    ],
+    
+		"requires": "|Downloaded VR Mission 08|"
+  },
+  {
+    
+		"name": "Complete Downloaded VR Mission 09",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "DLC VR Mission"
+    ],
+    
+		"requires": "|Downloaded VR Mission 09|"
+  },
+  {
+    
+		"name": "Complete Downloaded VR Mission 10",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "DLC VR Mission"
+    ],
+    
+		"requires": "|Downloaded VR Mission 10|"
+  },
+  {
+    
+		"name": "Complete Downloaded VR Mission 11",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "DLC VR Mission"
+    ],
+    
+		"requires": "|Downloaded VR Mission 11|"
+  },
+  {
+    
+		"name": "Complete Downloaded VR Mission 12",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "DLC VR Mission"
+    ],
+    
+		"requires": "|Downloaded VR Mission 12|"
+  },
+  {
+    
+		"name": "Complete Downloaded VR Mission 13",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "DLC VR Mission"
+    ],
+    
+		"requires": "|Downloaded VR Mission 13|"
+  },
+  {
+    
+		"name": "Complete Downloaded VR Mission 14",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "DLC VR Mission"
+    ],
+    
+		"requires": "|Downloaded VR Mission 14|"
+  },
+  {
+    
+		"name": "Complete Downloaded VR Mission 15",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "DLC VR Mission"
+    ],
+    
+		"requires": "|Downloaded VR Mission 15|"
+  },
+  {
+    
+		"name": "Complete Downloaded VR Mission 16",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "DLC VR Mission"
+    ],
+    
+		"requires": "|Downloaded VR Mission 16|"
+  },
+  {
+    
+		"name": "Complete Downloaded VR Mission 17",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "DLC VR Mission"
+    ],
+    
+		"requires": "|Downloaded VR Mission 17|"
+  },
+  {
+    
+		"name": "Complete Downloaded VR Mission 18",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "DLC VR Mission"
+    ],
+    
+		"requires": "|Downloaded VR Mission 18|"
+  },
+  {
+    
+		"name": "Complete Downloaded VR Mission 19",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "DLC VR Mission"
+    ],
+    
+		"requires": "|Downloaded VR Mission 19|"
+  },
+  {
+    
+		"name": "Complete Downloaded VR Mission 20",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "DLC VR Mission"
+    ],
+    
+		"requires": "|Downloaded VR Mission 20|"
+  },
+  {
+    
+		"name": "Complete Downloaded VR Mission 21",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "DLC VR Mission"
+    ],
+    
+		"requires": "|Downloaded VR Mission 21|"
+  },
+  {
+    
+		"name": "Complete Downloaded VR Mission 22",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "DLC VR Mission"
+    ],
+    
+		"requires": "|Downloaded VR Mission 22|"
+  },
+  {
+    
+		"name": "Complete Downloaded VR Mission 23",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "DLC VR Mission"
+    ],
+    
+		"requires": "|Downloaded VR Mission 23|"
+  },
+  {
+    
+		"name": "Complete Downloaded VR Mission 24",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "DLC VR Mission"
+    ],
+    
+		"requires": "|Downloaded VR Mission 24|"
+  },
+  {
+    
+		"name": "Complete Downloaded VR Mission 25",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "DLC VR Mission"
+    ],
+    
+		"requires": "|Downloaded VR Mission 25|"
+  },
+  {
+    
+		"name": "Complete Downloaded VR Mission 26",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "DLC VR Mission"
+    ],
+    
+		"requires": "|Downloaded VR Mission 26|"
+  },
+  {
+    
+		"name": "Complete Downloaded VR Mission 27",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "DLC VR Mission"
+    ],
+    
+		"requires": "|Downloaded VR Mission 27|"
+  },
+  {
+    
+		"name": "Complete Downloaded VR Mission 28",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "DLC VR Mission"
+    ],
+    
+		"requires": "|Downloaded VR Mission 28| AND |Homing Missile Unlock|"
+  },
+  {
+    
+		"name": "Complete Downloaded VR Mission 29",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "DLC VR Mission"
+    ],
+    
+		"requires": "|Downloaded VR Mission 29|"
+  },
+  {
+    
+		"name": "Complete Downloaded VR Mission 30",
+    "region": "a VR Mission",
+		"category": [
+      "VR Missions", "DLC VR Mission"
+    ],
+    
+		"requires": "|Downloaded VR Mission 30|"
+  },
+  {
+    
+		"name": "R-01 Defeat Mistral",
+    "region": "R-01",
+		"category": [
+      "FILE R-01: Coup d'Ètat"
+    ],
+    
+		"requires": "|FILE R-01 Coup d'Ètat| AND |@Swords:1|"
+  },
+  {
+    
+		"name": "R-04 Defeat Sundowner",
+    "region":"R-04",
+		"category": [
+      "FILE R-04: Hostile Takeover"
+    ],
+    
+		"requires": "|FILE R-04 Hostile Takeover| AND |@Cuts Objects:1|"
+  },
+  {
+    
+		"name": "R-03 Defeat Monsoon",
+    "region": "R-03",
+		"category": [
+      "FILE R-03: Mile High"
+    ],
+    
+		"requires": "|FILE R-03 Mile High| AND |Ripper Mode| AND |@Swords:1| AND ({YamlDisabled(require_em_grenades_for_monsoon)} OR |Electromagnetic Grenade Unlock|)"
+  },
+  {
+    
+		"name": "R-07 Defeat Armstrong",
+    
+    "region": "R-07",
+    
+		"category": [
+      "FILE R-07: Assassination Attempt"
+    ],
+    
+		"requires": "|Murasama| AND |FILE R-07 Assassination Attempt| AND ({YamlDisabled(require_defensive_offense_for_excelsus)} OR |Defensive Offense|) AND ({YamlDisabled(require_repair_nanopastes_for_armstrong)} OR |Repair Nanopaste Unlock|)"
+  },
+  {
+    
+		"name": "R-00 Cut Off Metal Gear Ray's Tail",
+    "region": "R-00",
+		"category": [
+      "FILE R-00: Guard Duty", "precise"
+    ],
+    
+		"requires": "|FILE R-00 Guard Duty|"
+  },
+  {
+    
+		"name": "R-00 Defeat Metal Gear Ray",
+    "region": "R-00",
+		"category": [
+      "FILE R-00: Guard Duty"
+    ],
+    
+		"requires": "|FILE R-00 Guard Duty|"
+  },
+  {
+    
+		"name": "DL-01 Defeat Armstrong",
+    "region":"DL-01",
+		"category": [
+      "DL-Story-01: Jetstream"
+    ],
+    
+		"requires": "|DL-Story-01 Jetstream|"
+  },
+  {
+    
+		"name": "DL-02 Defeat Khamsin",
+    "region":"DL-02",
+		"category": [
+      "DL-Story-02: Blade Wolf"
+    ],
+    
+		"requires": "|DL-Story-02 Blade Wolf|"
+  }
+]

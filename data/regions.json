@@ -1,0 +1,46 @@
+{
+  "R-07": {
+		"connects_to": [],
+		"requires": []
+  },
+  "R-05": {
+		"connects_to": [],
+		"requires": []
+  },
+  "R-04": {
+		"connects_to": [],
+		"requires": []
+  },
+  "R-03": {
+		"connects_to": [],
+		"requires": []
+  },
+  "R-02": {
+		"connects_to": [],
+		"requires": []
+  },
+  "R-01": {
+		"connects_to": [],
+		"requires": []
+  },
+  "R-00": {
+		"connects_to": [],
+		"requires": []
+  },
+  "DL-01": {
+		"connects_to": [],
+		"requires": []
+  },
+  "DL-02": {
+		"connects_to": [],
+		"requires": []
+  },
+  "R-06": {
+		"connects_to": [],
+		"requires": []
+  },
+  "a VR Mission":{
+    "connects_to":[],
+    "requires":[]
+  }
+}

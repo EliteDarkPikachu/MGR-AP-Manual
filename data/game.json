@@ -1,0 +1,21 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "MetalGearRisingRevengance",
+  "creator": "EliteDarkPikachu",
+  "filler_item_name": "1000 BP",
+  "starting_items": [
+    {
+      "item_categories": ["Bodies"],
+      "random": 1
+    },
+    {
+      "item_categories": ["Main Weapons"],
+      "random": 1
+    },
+    {
+      "item_categories": ["Chapters"],
+      "random": 1
+    }
+  ],
+  "death_link": true
+}

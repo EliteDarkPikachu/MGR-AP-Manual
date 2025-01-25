@@ -1,0 +1,1488 @@
+[
+  {
+    
+		"count":  1,
+    
+		"name": "Custom Body",
+    
+		"category": [
+      "Bodies"
+    ],
+    
+		"filler": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Custom Body (Desperado)",
+    
+		"category": [
+      "Bodies"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Mariachi Uniform",
+    
+		"category": [
+      "Bodies"
+    ],
+    
+		"filler": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Original Body",
+    
+		"category": [
+      "Bodies"
+    ],
+    
+		"filler": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Gray Fox",
+    
+		"category": [
+      "Bodies"
+    ],
+    
+		"filler": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "White Armor",
+    
+		"category": [
+      "Bodies"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Inferno Armor",
+    
+		"category": [
+      "Bodies"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Commando Armor",
+    
+		"category": [
+      "Bodies"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "HF Blade",
+    
+		"category": [
+      "Main Weapons", "Cuts Objects", "Swords"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "FOX Blade",
+    
+		"category": [
+      "Main Weapons", "Fox Blade", "Cuts Objects", "Swords"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Murasama",
+    
+		"category": [
+      "Main Weapons", "Cuts Objects", "Swords"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Pole-Arm",
+    
+		"category": [
+      "Unique Weapons", "Cuts Objects"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Sai",
+    
+		"category": [
+      "Unique Weapons"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Pincer Blades",
+    
+		"category": [
+      "Unique Weapons", "Cuts Objects"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Infinite Wig A",
+    
+		"category": [
+      "Wigs"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Aerial Parry",
+    
+		"category": [
+      "Skills"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Defensive Offense",
+    
+		"category": [
+      "Skills"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Sky High",
+    
+		"category": [
+      "Skills"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Sweep Kick",
+    
+		"category": [
+      "Skills"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Thunder Strike",
+    
+		"category": [
+      "Skills"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Falling Lightning",
+    
+		"category": [
+      "Skills"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Quick Draw",
+    
+		"category": [
+      "Skills"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Lightning Strike",
+    
+		"category": [
+      "Skills"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Stormbringer",
+    
+		"category": [
+      "Skills"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Marches du ciel",
+    
+		"category": [
+      "Skills"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Lumière du ciel",
+    
+		"category": [
+      "Skills"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Cercle de l'ange",
+    
+		"category": [
+      "Skills"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Turbulence",
+    
+		"category": [
+      "Skills"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "FILE R-00 Guard Duty",
+    
+		"category": [
+      "Chapters"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "FILE R-01 Coup d'Ètat",
+    
+		"category": [
+      "Chapters"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "FILE R-02 Research Facility",
+    
+		"category": [
+      "Chapters"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "FILE R-03 Mile High",
+    
+		"category": [
+      "Chapters"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "FILE R-04 Hostile Takeover",
+    
+		"category": [
+      "Chapters"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "FILE R-05 Escape from Denver",
+    
+		"category": [
+      "Chapters"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "FILE R-06 Badlands Showdown",
+    
+		"category": [
+      "Chapters"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "FILE R-07 Assassination Attempt",
+    
+		"category": [
+      "Chapters"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Armor Breaker",
+    
+		"category": [
+      "Main Weapons", "Cuts Objects", "Swords"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "HF Long Sword",
+    
+		"category": [
+      "Main Weapons", "Cuts Objects", "Swords"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "HF Machete",
+    
+		"category": [
+      "Main Weapons", "Cuts Objects", "Swords"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "HF Wooden Sword",
+    
+		"category": [
+      "Main Weapons", "Wooden Sword"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Stun Blade",
+    
+		"category": [
+      "Main Weapons", "Cuts Objects", "Swords"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Repair Nanopaste Unlock",
+    
+		"category": [
+      "Unlocks"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Electrolyte Pack Unlock",
+    
+		"category": [
+      "Unlocks"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Drum Can Unlock",
+    
+		"category": [
+      "Unlocks"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Cardboard Box Unlock",
+    
+		"category": [
+      "Unlocks"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "3D Photo Frame Unlock",
+    
+		"category": [
+      "Unlocks"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Electromagnetic Grenade Unlock",
+    
+		"category": [
+      "Unlocks"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Jamming Grenade Unlock",
+    
+		"category": [
+      "Unlocks"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Red Phosphorus Grenade Unlock",
+    
+		"category": [
+      "Unlocks"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Grenade Unlock",
+    
+		"category": [
+      "Unlocks"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Homing Missile Unlock",
+    
+		"category": [
+      "Unlocks"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Rocket Launcher Unlock",
+    
+		"category": [
+      "Unlocks"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Ripper Mode",
+    
+		"category": [
+      "Unlocks"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Custom Body (Red)",
+    
+		"category": [
+      "Bodies"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Custom Body (Blue)",
+    
+		"category": [
+      "Bodies"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Custom Body (Yellow)",
+    
+		"category": [
+      "Bodies"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Infinite Wig B",
+    
+		"category": [
+      "Wigs"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Blade Mode Wig",
+    
+		"category": [
+      "Wigs", "Blade Mode Wig"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": " Down Burst",
+    
+		"category": [
+      "Skills"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Suit",
+    
+		"category": [
+      "Bodies"
+    ],
+    
+		"filler": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Standard Body",
+    
+		"category": [
+      "Bodies"
+    ],
+    
+		"filler": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "DL-Story-01 Jetstream",
+    
+		"category": [
+      "Chapters",
+      "sam level item secret tag"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "DL-Story-02 Blade Wolf",
+    
+		"category": [
+      "Chapters",
+      "Blade Wolf"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Heat Knife Unlock",
+    
+		"category": [
+      "Unlocks",
+      "Blade Wolf"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "VR Mission 01",
+    
+		"category": [
+      "VR Missions",
+      "Base Game VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "VR Mission 02",
+    
+		"category": [
+      "VR Missions",
+      "Base Game VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "VR Mission 03",
+    
+		"category": [
+      "VR Missions",
+      "Base Game VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "VR Mission 04",
+    
+		"category": [
+      "VR Missions",
+      "Base Game VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "VR Mission 05",
+    
+		"category": [
+      "VR Missions",
+      "Base Game VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "VR Mission 06",
+    
+		"category": [
+      "VR Missions",
+      "Base Game VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "VR Mission 07",
+    
+		"category": [
+      "VR Missions",
+      "Base Game VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "VR Mission 08",
+    
+		"category": [
+      "VR Missions",
+      "Base Game VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "VR Mission 09",
+    
+		"category": [
+      "VR Missions",
+      "Base Game VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "VR Mission 10",
+    
+		"category": [
+      "VR Missions",
+      "Base Game VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "VR Mission 11",
+    
+		"category": [
+      "VR Missions",
+      "Base Game VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "VR Mission 12",
+    
+		"category": [
+      "VR Missions",
+      "Base Game VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "VR Mission 13",
+    
+		"category": [
+      "VR Missions",
+      "Base Game VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "VR Mission 14",
+    
+		"category": [
+      "VR Missions",
+      "Base Game VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "VR Mission 15",
+    
+		"category": [
+      "VR Missions",
+      "Base Game VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "VR Mission 16",
+    
+		"category": [
+      "VR Missions",
+      "Base Game VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "VR Mission 17",
+    
+		"category": [
+      "VR Missions",
+      "Base Game VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "VR Mission 18",
+    
+		"category": [
+      "VR Missions",
+      "Base Game VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "VR Mission 19",
+    
+		"category": [
+      "VR Missions",
+      "Base Game VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "VR Mission 20",
+    
+		"category": [
+      "VR Missions",
+      "Base Game VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Tutorial VR Mission 01",
+    
+		"category": [
+      "VR Missions",
+      "Tutorial VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Tutorial VR Mission 02",
+    
+		"category": [
+      "VR Missions",
+      "Tutorial VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Tutorial VR Mission 03",
+    
+		"category": [
+      "VR Missions",
+      "Tutorial VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Tutorial VR Mission 04",
+    
+		"category": [
+      "VR Missions",
+      "Tutorial VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Tutorial VR Mission 05",
+    
+		"category": [
+      "VR Missions",
+      "Tutorial VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Downloaded VR Mission 01",
+    
+		"category": [
+      "VR Missions",
+      "DLC VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Downloaded VR Mission 02",
+    
+		"category": [
+      "VR Missions",
+      "DLC VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Downloaded VR Mission 03",
+    
+		"category": [
+      "VR Missions",
+      "DLC VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Downloaded VR Mission 04",
+    
+		"category": [
+      "VR Missions",
+      "DLC VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Downloaded VR Mission 05",
+    
+		"category": [
+      "VR Missions",
+      "DLC VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Downloaded VR Mission 06",
+    
+		"category": [
+      "VR Missions",
+      "DLC VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Downloaded VR Mission 07",
+    
+		"category": [
+      "VR Missions",
+      "DLC VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Downloaded VR Mission 08",
+    
+		"category": [
+      "VR Missions",
+      "DLC VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Downloaded VR Mission 09",
+    
+		"category": [
+      "VR Missions",
+      "DLC VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Downloaded VR Mission 10",
+    
+		"category": [
+      "VR Missions",
+      "DLC VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Downloaded VR Mission 11",
+    
+		"category": [
+      "VR Missions",
+      "DLC VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Downloaded VR Mission 12",
+    
+		"category": [
+      "VR Missions",
+      "DLC VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Downloaded VR Mission 13",
+    
+		"category": [
+      "VR Missions",
+      "DLC VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Downloaded VR Mission 14",
+    
+		"category": [
+      "VR Missions",
+      "DLC VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Downloaded VR Mission 15",
+    
+		"category": [
+      "VR Missions",
+      "DLC VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Downloaded VR Mission 16",
+    
+		"category": [
+      "VR Missions",
+      "DLC VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Downloaded VR Mission 17",
+    
+		"category": [
+      "VR Missions",
+      "DLC VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Downloaded VR Mission 18",
+    
+		"category": [
+      "VR Missions",
+      "DLC VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Downloaded VR Mission 19",
+    
+		"category": [
+      "VR Missions",
+      "DLC VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Downloaded VR Mission 20",
+    
+		"category": [
+      "VR Missions",
+      "DLC VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Downloaded VR Mission 21",
+    
+		"category": [
+      "VR Missions",
+      "DLC VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Downloaded VR Mission 22",
+    
+		"category": [
+      "VR Missions",
+      "DLC VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Downloaded VR Mission 23",
+    
+		"category": [
+      "VR Missions",
+      "DLC VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Downloaded VR Mission 24",
+    
+		"category": [
+      "VR Missions",
+      "DLC VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Downloaded VR Mission 25",
+    
+		"category": [
+      "VR Missions",
+      "DLC VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Downloaded VR Mission 26",
+    
+		"category": [
+      "VR Missions",
+      "DLC VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Downloaded VR Mission 27",
+    
+		"category": [
+      "VR Missions",
+      "DLC VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Downloaded VR Mission 28",
+    
+		"category": [
+      "VR Missions",
+      "DLC VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Downloaded VR Mission 29",
+    
+		"category": [
+      "VR Missions",
+      "DLC VR Mission"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Downloaded VR Mission 30",
+    
+		"category": [
+      "VR Missions",
+      "DLC VR Mission"
+    ],
+    
+		"progression": true
+  }
+]

@@ -1,0 +1,74 @@
+{
+    "sam level item secret tag": {
+        "hidden": true,
+        "yaml_option": ["DL_Story_01_Jetstream_enabled"]
+    },
+    "DL-Story-01: Jetstream": {
+        "yaml_option": ["DL_Story_01_Jetstream_enabled"]
+    },
+    "Blade Wolf": {
+        "hidden": true,
+        "yaml_option": ["DL_Story_02_Blade_Wolf_enabled"]
+    },
+    "DL-Story-02: Blade Wolf": {
+        "yaml_option": ["DL_Story_02_Blade_Wolf_enabled"]
+    },
+    "Wooden Sword": {
+        "hidden": true,
+        "yaml_option": ["Wooden_Sword_in_item_pool"]
+    },
+    "Fox Blade": {
+        "hidden": true,
+        "yaml_option": ["Fox_Blade_in_item_pool"]
+    },
+    "Base Game VR Mission": {
+        "hidden": true,
+        "yaml_option": ["Findable_VR_Missions_enabled"]
+    },
+    "DLC VR Mission": {
+        "hidden": true,
+        "yaml_option": ["Downloaded_VR_Missions_enabled"]
+    },
+    "Tutorial VR Mission": {
+        "hidden": true,
+        "yaml_option": ["Tutorial_VR_Missions_enabled"]
+    },
+    "MIBs": {
+        "hidden": true,
+        "yaml_option": ["Shuffle_Men_in_Boxes"]
+    },
+    "Blade Mode Wig":{
+        "hidden":true,
+        "yaml_option":["Blade_Mode_Wig_in_item_pool"]
+    },
+    "Cuts Objects":{
+        "hidden":true
+    },
+    "Swords":{
+        "hidden":true
+    },
+    "precise":{
+        "hidden":true,
+        "yaml_option":["precise_checks"]
+    },
+    "defensive offense yaml option":{
+        "hidden":true,
+        "yaml_option":["require_defensive_offense_for_excelsus"]
+    },
+    "nanopastes yaml option":{
+        "hidden":true,
+        "yaml_option":["require_repair_nanopastes_for_armstrong"]
+    },
+    "em grenade yaml option":{
+        "hidden":true,
+        "yaml_option":["require_em_grenades_for_monsoon"]
+    },
+    "Humanoid Gekkos":{
+        "hidden":true,
+        "yaml_option":["shuffle_humanoid_dwarf_gekkos"]
+    },
+    "Posters":{
+        "hidden":true,
+        "yaml_option":["shuffle_posters"]
+    }
+}
